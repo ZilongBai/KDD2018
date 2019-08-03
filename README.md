@@ -1,6 +1,6 @@
 # KDD2018 Discovering Models from Structural and Behavioral Brain Imaging Data
 This repository contains matlab source code to solve the Block Modeling from Structural and Behavioral Data (BMSB) for cluster indicator matrix [F], mixing matrix [Ms] for the structural pathways between blocks, and a set of mixing matrices [MfT] for the behavioral interactions over structural pathways in the set of behavioral graphs XfT.
-% I.e., Algorithm 1 BMSB Discovery. in "Discovering Models from Structural and Behavioral Brain Imaging Data", KDD 2018. Implemented by Zilong Bai, KDD Lab @ University of California, Davis
+I.e., Algorithm 1 BMSB Discovery. in "Discovering Models from Structural and Behavioral Brain Imaging Data", KDD 2018. Implemented by Zilong Bai, KDD Lab @ University of California, Davis
 
 The details of the model and the solver are described in our paper [Discovering Models from Structural and Behavioral Brain Imaging Data](https://dl.acm.org/citation.cfm?doid=3219819.3220080).
 The details of deductions for our method as well as the techniques from related work that are involved in developing our method can also be found in our paper. See the references of our paper for more information on related work.
